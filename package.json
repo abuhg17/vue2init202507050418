@@ -14,16 +14,22 @@
     "vee-validate": "^3.4.15",
     "vue": "^2.7.7",
     "vue-router": "^3.5.4",
+    "whatwg-fetch": "^3.6.20",
     "yup": "^1.6.1"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.0",
-    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-legacy": "^2.3.1",
     "@vitejs/plugin-vue2": "^1.1.2",
     "@vue/eslint-config-prettier": "^7.0.0",
+    "autoprefixer": "^10.4.21",
+    "core-js": "^3.43.0",
     "eslint": "^8.5.0",
     "eslint-plugin-vue": "^9.0.0",
+    "path": "^0.12.7",
+    "postcss": "^8.5.6",
     "prettier": "^2.5.1",
+    "regenerator-runtime": "^0.14.1",
     "terser": "^5.14.2",
     "vite": "^3.0.2"
   }
